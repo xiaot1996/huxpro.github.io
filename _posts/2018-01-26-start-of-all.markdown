@@ -1,4 +1,16 @@
-<!-- 2018-01-26 evry xiaotong CHEN -->
+---
+layout:    post
+title:    "这是我的起点"
+subtitle: "第一篇博文"
+date:      2018-01-26 
+author:    "Xiaotong CHEN"
+header-img:
+tags:
+    - Life
+    - Tittle-tattle
+---
+
+
 
 #这是我的起点
 

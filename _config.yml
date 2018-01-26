@@ -67,8 +67,8 @@ ga_domain: xiaot1996.info
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不知道做什么，还是敲代码吧<br>"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "coding makes me happy<br>"
+sidebar-avatar: /img/xiaot1996.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
