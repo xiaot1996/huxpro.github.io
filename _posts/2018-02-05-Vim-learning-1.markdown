@@ -2,8 +2,8 @@
 layout:     post
 title:      "Vim学习（一）"
 subtitle:   "Vim常用指令"
-date:       2018-01-29
-author:     "Xiaotong CHEN
+date:       2018-02-05
+author:     "Xiaotong CHEN"
 header-img: 
 tags:
     - vim
