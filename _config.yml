@@ -1,8 +1,13 @@
 # Site settings
 title: Xiaot Blog
 SEOTitle: Xiaot Blog
+<<<<<<< HEAD
 header-img: img/home-bg.jpg
 email: xiaot.chen96@gmail.com
+=======
+header-img: img/xiaot1996.jpg
+email: Xiaot.chen96@gmail.com
+>>>>>>> 59c92c13e6e09876ca763da67c3d9de1bb201bbd
 description: "在法国留学的第一年，每一天在这里充实自己。"
 keyword: "陈小通，Xiaotong CHEN, Xiaotong； WEB, JAVA, Game development, Android；法语, français"
 url: "https://xiaot1996.info"              # your host, for absolute URL
