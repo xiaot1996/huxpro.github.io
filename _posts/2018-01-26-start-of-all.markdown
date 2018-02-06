@@ -5,6 +5,7 @@ subtitle: "第一篇博文"
 date:      2018-01-26 
 author:    "Xiaotong CHEN"
 header-img:
+catalog:   true
 tags:
     - Life
     - Tittle-tattle

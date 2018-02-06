@@ -4,15 +4,20 @@ title:      "Vim学习（一）"
 subtitle:   "Vim常用指令"
 date:       2018-02-05
 author:     "Xiaotong CHEN"
+catalog:    true
 header-img: 
 tags:
     - vim
     - 编辑器
 ---
 
+* 目录
+{:toc}
+
 # vim学习
 
 ---
+
 ## Part 1
 	- i → Insert 模式，按 ESC 回到 ormal 模式.
 	- x → 删当前光标所在的一个字符。
@@ -21,6 +26,7 @@ tags:
 	- p → 粘贴剪贴板
     
 ---
+
 ## Part 2
 1. 插入模式
 	- a → 在光标后插入
@@ -48,6 +54,7 @@ tags:
     - :bn 和 :bp → 你可以同时打开很多文件，使用这两个命令来切换下一个或上一个文件。
 
 ---
+
 ## Part 3
 1. vim的重复
 	- . 小数点，重复上一条命令
@@ -67,6 +74,7 @@ tags:
 		- 其他
 
 ---
+
 ## Part 4
 1. 当前行上移动光标
 	- 0，到行头
